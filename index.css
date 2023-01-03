@@ -1,4 +1,9 @@
 h3{
     color: blue;
-    background-color: aliceblue;
+    background-color: rgb(135, 12, 149);
+    text-align: center;
 }
+.all{
+    background-color: brown;
+}
+
